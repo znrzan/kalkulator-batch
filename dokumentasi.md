@@ -1,4 +1,4 @@
-Berikut adalah pengertian dari setiap bagian kode batch script kalkulator sederhana yang Anda berikan:
+Berikut adalah pengertian dari setiap bagian kode batch script kalkulator sederhana:
 
 - `@echo off`: Mematikan echo agar perintah-perintah dalam script tidak ditampilkan saat berjalan, hanya output yang ditampilkan.
 - `title Kalkulator Sederhana`: Memberi judul pada jendela Command Prompt.
