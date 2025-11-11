@@ -32,4 +32,4 @@ Berikut adalah pengertian dari setiap bagian kode batch script kalkulator sederh
 - `pause`: Menunggu input keyboard agar hasil bisa dibaca.
 - `goto menu`: Kembali ke menu utama untuk perhitungan selanjutnya.
 
-Secara keseluruhan, script ini adalah kalkulator sederhana berbasis batch yang mendukung operasi dasar penjumlahan, pengurangan, perkalian, dan pembagian dengan pengecekan kesalahan sederhana, overflow integer 32-bit, dan dukungan angka desimal menggunakan PowerShell saat diperlukan.[2][6][9]
+Secara keseluruhan, script ini adalah kalkulator sederhana berbasis batch yang mendukung operasi dasar penjumlahan, pengurangan, perkalian, dan pembagian dengan pengecekan kesalahan sederhana, overflow integer 32-bit, dan dukungan angka desimal menggunakan PowerShell saat diperlukan.
